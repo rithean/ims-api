@@ -8,3 +8,4 @@ npm install bcrypt @types/bcrypt
 npm install prisma @prisma/client
 npm install --save-dev tsc-alias ts-node-dev tsconfig-paths
 npx prisma init --datasource-provider mongodb
+npx prisma db push
